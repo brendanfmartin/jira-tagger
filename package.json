@@ -1,0 +1,11 @@
+{
+  "name": "jira-tagger",
+  "version": "1.0.0",
+  "description": "tool for generating jira links from git diffs of two tags",
+  "main": "release.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brendanfmartin",
+  "license": "ISC"
+}
