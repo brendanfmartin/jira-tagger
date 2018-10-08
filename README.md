@@ -4,7 +4,7 @@ Tool for creating links to JIRA tickets from github projects.
 
 !!! No npm dependencies
 
-_NOTE: the commits *must* constain the ticket number_
+_NOTE: the commits *must* contain the ticket number_
 
 ## Usage
 ```
